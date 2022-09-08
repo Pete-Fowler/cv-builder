@@ -6,7 +6,6 @@ import Education from './components/Education';
 
 class App extends Component {
 
-
   render() {
     return (
       <div>
